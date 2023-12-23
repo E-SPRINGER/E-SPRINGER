@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erie ! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Support Engineer
+<h1>Hi, I'm Erie ! <br/> <a href="https://www.linkedin.com/in/eriespringer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Support Engineer
 
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
