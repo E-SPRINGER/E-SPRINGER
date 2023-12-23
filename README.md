@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
-- [Active Directory Home lab](https://github.com/E-SPRINGER/laburl)
+- [Active Directory Home lab]
   
 
 
