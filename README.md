@@ -15,7 +15,6 @@
 
 -[Comptia Network Plus]
 
-![image](https://github.com/E-SPRINGER/E-SPRINGER/commit/d391ce1f9889b9e1e23583c09eb64790cc4abcc7)
 
 
 
