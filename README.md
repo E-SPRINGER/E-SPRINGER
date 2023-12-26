@@ -6,6 +6,16 @@
   
 
 
+
+
+
+
+<h2>👨‍💻 Cybersecurty Projects:</h2>
+
+- [ Home lab]
+  
+
+
 <h2>Certifications</h2>
 
 -Comptia Network Plus issued to Erie Springer on December 12, 2022
