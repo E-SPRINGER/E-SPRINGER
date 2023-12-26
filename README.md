@@ -8,13 +8,17 @@
 
 <h2>Certifications</h2>
 
--[Comptia Network Plus issued to Erie Springer on April 30, 2023
-Expires on April 30, 2026]
+-Comptia Network Plus issued to Erie Springer on April 30, 2023
+Expires on April 30, 2026
 
 ![comptia-network-ce-certification 1](https://github.com/E-SPRINGER/E-SPRINGER/assets/132612129/24f9f645-f3ed-4d5b-b43c-d4eb76277f99)
 
 
--[Comptia Security Plus
+-Comptia Security Plus issued to Erie Springer on April 30, 2023
+Expires on April 30, 2026
+
+
+![comptia-security-ce-certification](https://github.com/E-SPRINGER/E-SPRINGER/assets/132612129/8646ed39-8c02-4ded-ad2e-280eef602aff)
 
 
 
