@@ -1,6 +1,6 @@
 <h1>Hi, I'm Erie ! <br/> Cybersecurity Professional</a>,IT Support Engineer
 
-<h2>👨‍💻 CyberSecurity  Projects:</h2>
+<h2>👨‍💻 IT  Projects:</h2>
 
 - [Active Directory Home lab]
   
