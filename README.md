@@ -8,12 +8,10 @@
 
 <h2>Certifications</h2>
 
--[Comptia Security plus issued April 30, 2023
-Expires on April 30, 2026]
- 
-
-
 -[Comptia Network Plus]
+
+
+
 
 
 
