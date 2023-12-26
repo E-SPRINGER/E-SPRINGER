@@ -8,14 +8,14 @@
 
 <h2>Certifications</h2>
 
--[Comptia Security plus]
+-[Comptia Security plus issued April 30, 2023
+Expires on April 30, 2026]
  
-![image](https://github.com/E-SPRINGER/E-SPRINGER/assets/132612129/92b471d6-bc5e-4f2c-8765-f3a7fbc26ed8)
 
 
 -[Comptia Network Plus]
 
-![comptia-network-ce-certificationn 1](https://github.com/E-SPRINGER/E-SPRINGER/assets/132612129/93f6a1ae-bcdb-4754-aaae-674df5bcde59)
+
 
 
 
