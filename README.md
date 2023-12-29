@@ -2,11 +2,9 @@
 
 <h2>👨‍💻 IT  Projects:</h2>
 
-- [Active Directory Home lab]
   
-
-
-
+- <b>Active Directory Home lab </b>
+  - ["Home Lab: Active Directory Setup & User Management with PowerShell (Oracle VirtualBox)](https://github.com/E-SPRINGER/Active-Directory-lab)
 
 
 
