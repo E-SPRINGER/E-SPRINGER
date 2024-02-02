@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Cybersecurty Projects:</h2>
 
-- [ Home lab]
+- [Azure-SOC-Honeynet-Project](https://github.com/E-SPRINGER/Azure-SOC)
   
 
 
